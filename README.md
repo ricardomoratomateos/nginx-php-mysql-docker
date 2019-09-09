@@ -23,5 +23,5 @@ driver = 'pdo_mysql'
 
 # TODO
 
-* Not connect with root user
-* 
+* Not connect with root user.
+* In PROD environment, remove the volumes of the docker.
