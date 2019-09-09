@@ -20,3 +20,8 @@ password = 'root'
 host = 'mysql'
 driver = 'pdo_mysql'
 ```
+
+# TODO
+
+* Not connect with root user
+* 
