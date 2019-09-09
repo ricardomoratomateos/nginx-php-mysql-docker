@@ -1,7 +1,7 @@
 # How to execute it
 
 ```bash
-$ docker-compose -up --build
+$ docker-compose up #docker-compose -up --build
 $ docker-compose exec mysql sh /conf/mysql-setup.sh
 ```
 
