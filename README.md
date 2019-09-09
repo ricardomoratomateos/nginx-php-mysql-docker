@@ -5,7 +5,7 @@ $ docker-compose up #docker-compose -up --build
 $ docker-compose exec mysql sh /conf/mysql-setup.sh
 ```
 
-And go to ` http://localhost:10000`
+And go to ` http://localhost:8080`
 
 # Notes
 
